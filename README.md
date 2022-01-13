@@ -1,6 +1,6 @@
 # Angular Quotes App
 ## Author
-Fabian Matata fabian three four five six seven eight nine
+Fabian Matata fabian three four five six seven eight nine ten
 ## Description
 An Angular CLI application that displays quotes, allows user to input new quote, upvote or downvote and also delete the quote.
 ## Live Page
